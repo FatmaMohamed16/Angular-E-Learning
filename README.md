@@ -1,6 +1,7 @@
 📌 About the Project
 
 This E-Learning Platform is a web application that facilitates online learning for instructors and students. It allows instructors to create courses, groups, exams, and online meetings, while students can enroll, study, take exams, and track their progress. The platform also includes a payment system for course subscriptions
+🎥 Watch a demo video of the project here: https://www.linkedin.com/posts/fatma-mohamed-kamel_graduationproject-elearning-edtech-activity-7218415446436286464-PPQT?utm_source=share&utm_medium=member_android
 
 🚀 Features
 👨‍🏫 Instructor Features:
@@ -34,3 +35,5 @@ Frontend (Angular) 🌐
 ![2025-01-30 (5)](https://github.com/user-attachments/assets/2f76b9ca-9110-487d-84da-44a0c4257f58)
 ![2025-01-30 (3)](https://github.com/user-attachments/assets/9ddd3438-bad6-4e7c-ac43-e4d6fb569821)
 ![2025-01-30 (2)](https://github.com/user-attachments/assets/e714000e-ad01-4d6a-a201-2deadc2ed9b5)
+
+
